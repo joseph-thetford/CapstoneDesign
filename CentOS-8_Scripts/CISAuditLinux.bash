@@ -29,4 +29,4 @@ do
 
 	cmd=$(eval $f3)
 	audit "${f1}" "${f2}" "${cmd}" "${f4}"
-done < benchhmarkTest.csv
+done < CentOS8Benchmark.csv
