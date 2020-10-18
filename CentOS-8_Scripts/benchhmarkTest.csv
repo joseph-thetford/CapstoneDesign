@@ -1,1 +1,0 @@
-Ensure Sudo,sudo,rpm -q sudo | cut -c1-4,Sudo it
